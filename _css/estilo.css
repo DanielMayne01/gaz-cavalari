@@ -1,0 +1,42 @@
+
+.cabecalho{
+    background: mediumblue;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    border-bottom: solid 3px black;
+}
+.cabecalho h1{
+    margin: 0px;
+    font-size: 75px;
+    padding: 0px;
+    color: white;
+}
+.cabecalho h2{
+    margin: 0px;
+    font-size: 25px;
+    padding: 0px;
+    color: white;
+}
+.cabecalho a{
+    margin: 0px;
+    font-size: 15px;
+    padding: 0px;
+    text-decoration: none;
+    color: white;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background: darkgreen;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.gaz figure{
+    display: inline-flex;
+    height: 260px;
+    width: 260px;
+    padding: 20px;
+}
+.agua figure{
+    
+}
